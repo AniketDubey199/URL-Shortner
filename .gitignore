@@ -1,0 +1,5 @@
+.env
+
+*.rdb
+
+docker-compose.yml
